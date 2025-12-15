@@ -258,17 +258,10 @@ chmod 755 finley_conversations/
 
 ---
 
-## 👥 Team
-
-**Team Finley**
-- Aditya Sudhakar Pimpalkar
-- Diksha Sahare
-- Harsh Jatin Patel
-- Tapan Chandrakant Patel
 
 **Course**: INFO 7375 - Prompt Engineering for Generative AI  
 **Institution**: Northeastern University  
-**Semester**: Fall 2024  
+**Semester**: Fall 2025  
 **Professor**: Shirali Patel
 
 ---
@@ -276,7 +269,7 @@ chmod 755 finley_conversations/
 ## 📄 License
 
 Educational project for INFO 7375.  
-© 2024 Team Finley - Northeastern University
+© 2025 Team Finley - Northeastern University
 
 ---
 
